@@ -13,7 +13,7 @@ https://drive.google.com/file/d/1VraxbclDxdlzmd-7VvwSdZtzR04J_QiN/view?usp=shari
 - Dukungan untuk platform Android.
 
 ## Penggunaan
-![Penggunaan Aplikasi Metric Converter By: Christian Rondonuwu](https://github.com/christianlarry/metric_converter-ChristianRondonuwu-IONIC/blob/master/converter.gif)
+![Penggunaan Aplikasi Metric Converter By: Christian Rondonuwu](https://github.com/christianlarry/metric_converter-Christian-Rondonuwu-ANDROIDSTUDIO/blob/master/metricconverter-android.gif)
 
 Setelah menginstal aplikasi, Anda dapat membuka aplikasi Metric Converter di perangkat Android Anda. Berikut langkah-langkah penggunaan aplikasi:
 
