@@ -3,6 +3,9 @@
 Aplikasi Metric Converter adalah sebuah aplikasi sederhana yang memungkinkan pengguna untuk mengonversi berbagai satuan pengukuran seperti panjang, massa, dan waktu. 
 Aplikasi ini dibangun menggunakan Android Studio.
 
+## Link Aplikasi
+https://drive.google.com/file/d/1VraxbclDxdlzmd-7VvwSdZtzR04J_QiN/view?usp=sharing
+
 ## Fitur Utama
 
 - Konversi antara satuan metrik untuk panjang, massa, waktu, arus listrik, suhu, intensitas cahaya, jumlah zat.
